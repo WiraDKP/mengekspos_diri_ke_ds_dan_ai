@@ -1,6 +1,7 @@
+# Pengantar 
 Tentunya ilmu di dunia ini begitu luas dan [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) hanyalah bekal untuk teman-teman bisa terbang lebih jauh. 
 
-Setelah belajar secara komprehensif dan runut, mulai dari Pengantar Data Science (Course 1), Fundamental Machine Learning (Course 2-3), menghandle Unstructured Data (Course 4), dan Deep Learning (Course 5-6). Sudah saatnya teman-teman untuk mengeksplor referensi belajar lainnya sesuai minat masing-masing.
+Setelah belajar secara komprehensif dan runut, mulai dari Pengantar Data Science ([Course 1](https://github.com/wiradkp/supervised_learning)), Fundamental Machine Learning ([Course 2-3](https://github.com/wiradkp/supervised_learning)), menghandle Unstructured Data ([Course 4](https://github.com/wiradkp/unstructured_data)), dan Deep Learning ([Course 5-6](https://github.com/wiradkp/deep_learning)). Sudah saatnya teman-teman untuk mengeksplor referensi belajar lainnya sesuai minat masing-masing.
 
 Itulah mengapa Wira beri kompilasi referensi yang mungkin bisa bermanfaat dan menarik bagi teman-teman.
 
@@ -106,9 +107,13 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
 
 # Step 6: Komunitas di Indonesia
 - [Artificial Intelligence Indonesia](https://artificialintelligence.id) <sup>id</sup>
+- [Big Data Indonesia / Data Engineering Indonesia](https://t.me/bigdataID) <sup>id</sup>
+- [Businees Intelligence Indonesia](https://t.me/businessintelligenceID) <sup>id</sup>
 - [Data science Indonesia (DSI)](https://datascience.or.id) <sup>id</sup>
 - [Jakarta Machine Learning (JML)](https://jakartamachinelearning.com) <sup>id</sup>
 - [Machine Learning Indonesia (MLID)](https://t.me/machinelearningid) <sup>id</sup>
+- [Natural Language ID](https://t.me/nlp_lounge) <sup>id</sup>
+- [Python Indonesia (Python ID)](https://t.me/pythonid) <sup>id</sup>
 - [PyTorch Indonesia](https://t.me/pytorchid) <sup>id</sup>
 
 # Tips lainnya untuk mendapatkan referensi belajar
