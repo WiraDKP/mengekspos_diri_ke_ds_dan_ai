@@ -25,10 +25,12 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [Thomas Wolf](https://www.linkedin.com/in/thomas-wolf-a056857/)        
 - Tips dan project ML (tapi juga jualan course)
     - [Adrian Rosebrock](https://www.linkedin.com/in/adrian-rosebrock-59b8732a/)
-    - [Jason Brrownlee](https://www.linkedin.com/in/jasonbrownlee/)
+    - [Jason Brownlee](https://www.linkedin.com/in/jasonbrownlee/)
     - [Kevin Markham](https://www.linkedin.com/in/justmarkham/)
     - [Taufik Sutanto](https://www.linkedin.com/in/taufikedys/detail/recent-activity/shares/) <sup>id</sup>
 - Other Indonesia related to follow
+    - [Kata.ai](https://www.linkedin.com/company/kata-ai/) <sup>id</sup>
+    - [Nodeflux](https://www.linkedin.com/company/nodeflux/) <sup>id</sup>
     - [Prosa.ai](https://www.linkedin.com/company/prosa-ai/) <sup>id</sup>
     - [Nobody](https://www.linkedin.com/in/wiradkputra/) <sup>id</sup>
 
@@ -43,12 +45,13 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
     - [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)
     - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
-    - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/videos)
     - [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
     - [Kaggle](https://www.youtube.com/user/kaggledotcom)
+    - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/videos)
     - [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
     - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 - Belajar practical Data science dan AI
+    - [Abishek Thakur](https://www.youtube.com/user/abhisheksvnit)
     - [AIEngineering](https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw)
     - [Datatalks](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
     - [Sentdex](https://www.youtube.com/user/sentdex)
@@ -82,6 +85,7 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
 - Publikasi Ilmiah (paper)
     - [arXiv](https://arxiv.org)
     - [Papers with Code](https://paperswithcode.com)
+    - [State of the Art AI](https://www.stateoftheart.ai)
 
 # Step 4: Course Online
 - Gratis
@@ -93,9 +97,9 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [mlcourse.ai](https://mlcourse.ai)
 - Berbayar
     - [Datacamp](http://datacamp.com)
-    - [Udacity](http://udacity.com)
     - [PacktPub](https://www.packtpub.com)
-    - [Pluralsight](http://pluralsight.com)
+    - [Pluralsight](http://pluralsight.com)    
+    - [Udacity](http://udacity.com)
     - [Udemy](http://udemy.com)
 
 # Step 5: Recommended Book
@@ -113,7 +117,7 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
 # Step 6: Komunitas di Indonesia
 - [Artificial Intelligence Indonesia](https://artificialintelligence.id) <sup>id</sup>
 - [Big Data Indonesia / Data Engineering Indonesia](https://t.me/bigdataID) <sup>id</sup>
-- [Businees Intelligence Indonesia](https://t.me/businessintelligenceID) <sup>id</sup>
+- [Business Intelligence Indonesia](https://t.me/businessintelligenceID) <sup>id</sup>
 - [Data science Indonesia (DSI)](https://datascience.or.id) <sup>id</sup>
 - [Jakarta Machine Learning (JML)](https://jakartamachinelearning.com) <sup>id</sup>
 - [Machine Learning Indonesia (MLID)](https://t.me/machinelearningid) <sup>id</sup>
