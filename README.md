@@ -8,7 +8,7 @@ Itulah mengapa Wira beri kompilasi referensi yang mungkin bisa bermanfaat dan me
 Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk mengekspose diri lebih jauh dengan bidang Data Science dan Artificial Intelligence
 
 # Step 1: Follow LinkedIn berikut ini
-- Update info, riset dan teknologi<br>
+- Update info, riset dan teknologi
     - [Analytics Vidya](https://www.linkedin.com/company/analytics-vidhya/)
     - [Deeplearning.ai](https://www.linkedin.com/company/deeplearningai/)
     - [Made with ML](https://www.linkedin.com/company/madewithml)
@@ -16,7 +16,7 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [RASA](https://www.linkedin.com/company/rasa./)
     - [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/)
     - [Vincent Boucher](https://www.linkedin.com/in/montrealai/)
-- Head / Chief yang relate dengan DS atau AI<br>
+- Head / Chief yang relate dengan DS atau AI
     - [Abishek Thakur](https://www.linkedin.com/in/abhi1thakur/)
     - [Alan Nichol](https://www.linkedin.com/in/anichol/)
     - [Dat Tran](https://www.linkedin.com/in/dat-tran-a1602320/)
@@ -68,16 +68,20 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
     - [freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-# Step 3: Artikel / Blog / Forum 
-- [analyticsvidhya](http://analyticsvidhya.com/)
-- [FloydHub Blog](https://blog.floydhub.com)
-- [Hackernoon](https://hackernoon.com)
-- [machinelearningmastery](https://machinelearningmastery.com)
-- [mlfromscratch](https://mlfromscratch.com)
-- [pyimagesearch](https://www.pyimagesearch.com/)
-- [Tau Data](https://tau-data.id) <sup>id</sup>
-- [Towards Data Science](https://towardsdatascience.com)
-- [ycombinator](https://news.ycombinator.com/news)
+# Step 3: Bahan Bacaan
+- Non Publikasi Ilmiah
+    - [analyticsvidhya](http://analyticsvidhya.com/)
+    - [FloydHub Blog](https://blog.floydhub.com)
+    - [Hackernoon](https://hackernoon.com)
+    - [machinelearningmastery](https://machinelearningmastery.com)
+    - [mlfromscratch](https://mlfromscratch.com)
+    - [pyimagesearch](https://www.pyimagesearch.com/)
+    - [Tau Data](https://tau-data.id) <sup>id</sup>
+    - [Towards Data Science](https://towardsdatascience.com)
+    - [ycombinator](https://news.ycombinator.com/news)
+- Publikasi Ilmiah (paper)
+    - [arXiv](https://arxiv.org)
+    - [Papers with Code](https://paperswithcode.com)
 
 # Step 4: Course Online
 - Gratis
@@ -85,6 +89,7 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
     - [EdX](https://www.edx.org)    
     - [fast.ai](http://fast.ai)
     - [J.COp untuk Indonesia](http://youtube.com/JCOpUntukIndonesia) <sup>id</sup>
+    - [Kaggle Learn](https://www.kaggle.com/learn/overview)
     - [mlcourse.ai](https://mlcourse.ai)
 - Berbayar
     - [Datacamp](http://datacamp.com)
