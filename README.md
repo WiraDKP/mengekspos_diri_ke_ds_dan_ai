@@ -1,11 +1,11 @@
+Video + commentary -> [cek di sini](https://youtu.be/PFxeqomOHxw)
+
 # Pengantar 
-Tentunya ilmu di dunia ini begitu luas dan [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) hanyalah bekal untuk teman-teman bisa terbang lebih jauh. 
+Tentunya ilmu di dunia ini begitu luas dan [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) hanyalah bekal untuk teman-teman bisa terbang lebih jauh. Itulah mengapa J.COp Untuk Indonesia percaya bahwa **membagikan referensi belajar juga merupakan sebuah materi**.
 
 Setelah belajar secara komprehensif dan runut, mulai dari Pengantar Data Science ([Course 1](https://github.com/wiradkp/supervised_learning)), Fundamental Machine Learning ([Course 2-3](https://github.com/wiradkp/supervised_learning)), menghandle Unstructured Data ([Course 4](https://github.com/wiradkp/unstructured_data)), dan Deep Learning ([Course 5-6](https://github.com/wiradkp/deep_learning)). Sudah saatnya teman-teman untuk mengeksplor referensi belajar lainnya sesuai minat masing-masing.
 
-Itulah mengapa Wira beri kompilasi referensi yang mungkin bisa bermanfaat dan menarik bagi teman-teman.
-
-Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk mengekspose diri lebih jauh dengan bidang Data Science dan Artificial Intelligence
+Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk mengekspose diri lebih jauh dengan bidang Data Science dan Artificial Intelligence
 
 # Step 1: Follow LinkedIn berikut ini
 - Update info, riset dan teknologi
@@ -137,4 +137,4 @@ Berikut adalah referensi-referensi yang teman-teman dapat manfaatkan untuk menge
 Terima kasih yang telah membaca. Semoga kompilasi ini dapat bermanfaat untuk rekan-rekan saya di seluruh Indonesia.<br>
 n.b. Kompilasi ini merupakan sebuah rekomendasi pribadi dan dapat bersifat subjektif.
 
-Last updated: 9 Mei 2020
+Last updated: 11 Mei 2020
