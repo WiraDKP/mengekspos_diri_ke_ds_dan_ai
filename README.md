@@ -1,7 +1,9 @@
 Video + commentary -> [cek di sini](https://youtu.be/PFxeqomOHxw)
 
+<img src="./assets/referensi_belajar_lanjutan_youtube_ala_jcop_untuk_indonesia.png" width="500">
+
 # Pengantar 
-Tentunya ilmu di dunia ini begitu luas dan [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) hanyalah bekal untuk teman-teman bisa terbang lebih jauh. Itulah mengapa J.COp Untuk Indonesia percaya bahwa **membagikan referensi belajar juga merupakan sebuah materi**.
+Tentunya ilmu di dunia ini begitu luas dan [JCOp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) hanyalah bekal untuk teman-teman bisa terbang lebih jauh. Itulah mengapa JCOp Untuk Indonesia percaya bahwa **membagikan referensi belajar juga merupakan sebuah materi**.
 
 Setelah belajar secara komprehensif dan runut, mulai dari Pengantar Data Science ([Course 1](https://github.com/wiradkp/supervised_learning)), Fundamental Machine Learning ([Course 2-3](https://github.com/wiradkp/supervised_learning)), menghandle Unstructured Data ([Course 4](https://github.com/wiradkp/unstructured_data)), dan Deep Learning ([Course 5-6](https://github.com/wiradkp/deep_learning)). Sudah saatnya teman-teman untuk mengeksplor referensi belajar lainnya sesuai minat masing-masing.
 
@@ -45,7 +47,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
     - [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)
     - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
-    - [J.COp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
+    - [JCOp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
     - [Kaggle](https://www.youtube.com/user/kaggledotcom)
     - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/videos)
     - [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
@@ -92,7 +94,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Coursera](https://www.coursera.org)
     - [EdX](https://www.edx.org)    
     - [fast.ai](http://fast.ai)
-    - [J.COp untuk Indonesia](http://youtube.com/JCOpUntukIndonesia) <sup>id</sup>
+    - [JCOp untuk Indonesia](http://youtube.com/JCOpUntukIndonesia) <sup>id</sup>
     - [Kaggle Learn](https://www.kaggle.com/learn/overview)
     - [mlcourse.ai](https://mlcourse.ai)
 - Berbayar
@@ -133,7 +135,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
     - [awesome-nlp](https://github.com/keon/awesome-nlp)
 
-# Dari J.COp, Untuk Indonesia :heart:
+# Dari JCOp, Untuk Indonesia :heart:
 Terima kasih yang telah membaca. Semoga kompilasi ini dapat bermanfaat untuk rekan-rekan saya di seluruh Indonesia.<br>
 n.b. Kompilasi ini merupakan sebuah rekomendasi pribadi dan dapat bersifat subjektif.
 
