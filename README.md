@@ -47,6 +47,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
     - [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)
     - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+    - [Dr. Sunu Wibirama](https://www.youtube.com/user/wibirama) <sup>id</sup>
     - [JCOp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
     - [Kaggle](https://www.youtube.com/user/kaggledotcom)
     - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/videos)
@@ -56,6 +57,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Abishek Thakur](https://www.youtube.com/user/abhisheksvnit)
     - [AIEngineering](https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw)
     - [Datatalks](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
+    - [JCOp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
     - [Sentdex](https://www.youtube.com/user/sentdex)
 - Bahasan berat (paper, math, dll)
     - [ArXiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
