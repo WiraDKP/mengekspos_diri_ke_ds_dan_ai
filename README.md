@@ -61,10 +61,12 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [ArXiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
     - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
     - [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
+    - [INACL Malkin](https://www.youtube.com/channel/UC4O5LY9sYN25M1oBTsqGSIw/featured) <sup>id</sup>
     - [Krishna D N](https://www.youtube.com/channel/UC0AaMZ3TbGRExfM2Eq-qZ5g)
     - [Pieter Abbeel](https://www.youtube.com/user/pabbeel/)
     - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 - Seminar gratis, dan podcast
+    - [Bisa.ai](https://www.youtube.com/channel/UCGOi_aO_pEkDYs8uSJduP6w/videos) <sup>id</sup>
     - [Deepmind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
     - [Lex Fridman](https://www.youtube.com/user/lexfridman)
     - [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
@@ -107,6 +109,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
 # Step 5: Recommended Book
 - [Introduction to Statistical Learning - Trevor Hastie](https://link.springer.com/book/10.1007/978-1-4614-7138-7)
 - [Element of Statistical Learning - Trevor Hastie](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- [Forecasting: Principles and Practice - Hyndman & Athanasopoulos](https://otexts.com/fpp2/)
 - [Buku-buku oreilly](https://www.safaribooksonline.com)
     - [Hands on machine learning with sklearn keras tensorflow](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
     - [Deep Learning with Python](https://learning.oreilly.com/library/view/deep-learning-with/9781617294433/)
@@ -139,4 +142,4 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
 Terima kasih yang telah membaca. Semoga kompilasi ini dapat bermanfaat untuk rekan-rekan saya di seluruh Indonesia.<br>
 n.b. Kompilasi ini merupakan sebuah rekomendasi pribadi dan dapat bersifat subjektif.
 
-Last updated: 11 Mei 2020
+Last updated: 5 Juni 2020
