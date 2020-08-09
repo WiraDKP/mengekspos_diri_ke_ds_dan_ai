@@ -1,4 +1,4 @@
-Video + commentary -> [cek di sini](https://youtu.be/PFxeqomOHxw)
+Untuk yang lebih nyaman menonton video dan mau mendapatkan komentar pribadi saya terhadap masing-masing rekomendasi ini. Bisa [cek video ini](https://youtu.be/PFxeqomOHxw).
 
 <img src="./assets/referensi_belajar_lanjutan_youtube_ala_jcop_untuk_indonesia.png" width="500">
 
@@ -15,6 +15,7 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Deeplearning.ai](https://www.linkedin.com/company/deeplearningai/)
     - [Made with ML](https://www.linkedin.com/company/madewithml)
     - [Montreal.ai](https://www.linkedin.com/company/montreal.ai/)
+    - [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
     - [RASA](https://www.linkedin.com/company/rasa./)
     - [Towards AI](https://www.linkedin.com/company/towards-artificial-intelligence/)
     - [Vincent Boucher](https://www.linkedin.com/in/montrealai/)
@@ -44,15 +45,21 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
     - [Two minute papers](https://www.youtube.com/user/keeroyz)
 - Belajar statistik, math, ML, dll
+    - [Aladdin Persson](https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ)
+    - [Bermatematika.com](https://www.youtube.com/channel/UCZRnBDXeDb45B5sVTEPXJmQ) <sup>id</sup>
     - [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer)
     - [CodeEmporium](https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA)
     - [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
     - [Dr. Sunu Wibirama](https://www.youtube.com/user/wibirama) <sup>id</sup>
     - [JCOp Untuk Indonesia](https://www.youtube.com/jcopuntukindonesia) <sup>id</sup>
     - [Kaggle](https://www.youtube.com/user/kaggledotcom)
-    - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA/videos)
+    - [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
+    - [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA)
     - [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+    - [NgodingPython](https://www.youtube.com/channel/UCCI-2o5ZKPwYRDtHOo-ULDQ) <sup>id</sup>
+    - [RAM Academy](https://www.youtube.com/watch?v=mxSGZcnZ9xA) <sup>id</sup>
     - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
+    - [TeknoMerdeka](https://www.youtube.com/user/irzaip) <sup>id</sup>
 - Belajar practical Data science dan AI
     - [Abishek Thakur](https://www.youtube.com/user/abhisheksvnit)
     - [AIEngineering](https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw)
@@ -61,14 +68,15 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
     - [Sentdex](https://www.youtube.com/user/sentdex)
 - Bahasan berat (paper, math, dll)
     - [ArXiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+    - [ChrishMcCormickAI](https://www.youtube.com/channel/UCoRX98PLOsaN8PtekB9kWrw)
     - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
     - [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
-    - [INACL Malkin](https://www.youtube.com/channel/UC4O5LY9sYN25M1oBTsqGSIw/featured) <sup>id</sup>
+    - [INACL Malkin](https://www.youtube.com/channel/UC4O5LY9sYN25M1oBTsqGSIw) <sup>id</sup>
     - [Krishna D N](https://www.youtube.com/channel/UC0AaMZ3TbGRExfM2Eq-qZ5g)
     - [Pieter Abbeel](https://www.youtube.com/user/pabbeel/)
     - [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 - Seminar gratis, dan podcast
-    - [Bisa.ai](https://www.youtube.com/channel/UCGOi_aO_pEkDYs8uSJduP6w/videos) <sup>id</sup>
+    - [Bisa.ai](https://www.youtube.com/channel/UCGOi_aO_pEkDYs8uSJduP6w) <sup>id</sup>
     - [Deepmind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
     - [Lex Fridman](https://www.youtube.com/user/lexfridman)
     - [PyData](https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w)
@@ -144,4 +152,4 @@ Berikut adalah kompilasi referensi yang teman-teman dapat manfaatkan untuk menge
 Terima kasih yang telah membaca. Semoga kompilasi ini dapat bermanfaat untuk rekan-rekan saya di seluruh Indonesia.<br>
 n.b. Kompilasi ini merupakan sebuah rekomendasi pribadi dan dapat bersifat subjektif.
 
-Last updated: 5 Juni 2020
+Last updated: 9 Agustus 2020
